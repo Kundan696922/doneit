@@ -1,0 +1,27 @@
+const express = require('express');
+const router = express.Router();
+const {
+  getProjects,
+  getProject,
+  createProject,
+  updateProject,
+  deleteProject,
+} = require('../controllers/projectController');
+const { protect } = require('../middleware/auth');
+
+// Import task routes
+const taskRoutes = require('./tasks');
+
+// Re-route into task router
+router.use('/:projectId/tasks', protect, taskRoutes);
+
+router.route('/')
+  .get(protect, getProjects)
+  .post(protect, createProject);
+
+router.route('/:id')
+  .get(protect, getProject)
+  .put(protect, updateProject)
+  .delete(protect, deleteProject);
+
+module.exports = router;
