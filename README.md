@@ -87,7 +87,7 @@ Ensure you have the following installed:
  🧬 Clone the repository:
    ```bash
    git clone https://github.com/Kundan696922/doneit.git
-   cd velora
+   cd doneit
    ```
 
 🔧 Run the Backend
