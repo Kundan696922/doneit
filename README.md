@@ -39,15 +39,19 @@
 
 ## 🖼️ Overview 
 
-<img width="1280" height="720" alt="velora" src="https://github.com/user-attachments/assets/c1afbccb-c894-4573-a2a4-8aef921289c2" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-04 155155" src="https://github.com/user-attachments/assets/cd1d205a-503f-4971-b0db-034c6ad0a4bc" />
 
-<img width="1280" height="720" alt="velora2" src="https://github.com/user-attachments/assets/1bdf8bb7-41d3-47b7-9c2f-13fa81d1443a" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-04 155144" src="https://github.com/user-attachments/assets/70bd8812-53ba-4be1-a866-c47efec6993c" />
 
-<img width="1280" height="720" alt="velora3" src="https://github.com/user-attachments/assets/0b5267af-d78b-4008-af7d-fcb357c2823e" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-04 155144" src="https://github.com/user-attachments/assets/861e8f90-82df-40de-9eab-2a811c9ca4fd" />
 
-<img width="1280" height="720" alt="velora4" src="https://github.com/user-attachments/assets/496b091d-d8d1-40ff-93a4-16bc46174d46" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-04 155039" src="https://github.com/user-attachments/assets/2a713a68-31a0-4e8e-83bb-d8250f1bcab9" />
 
-<img width="1280" height="720" alt="velora5" src="https://github.com/user-attachments/assets/1cefefa0-c5d1-4a1a-941e-ace172a95962" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-04 155054" src="https://github.com/user-attachments/assets/df5457d5-02eb-4878-867a-b9e88f568a7f" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-04 155106" src="https://github.com/user-attachments/assets/9ccf6aa9-e911-4d25-9d17-3e1af51e417b" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-04 155120" src="https://github.com/user-attachments/assets/c7d25ec0-7da3-45ce-b007-b18c31df65ec" />
 
 
 ---
