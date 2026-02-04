@@ -2,6 +2,9 @@
   "name": "doneit-frontend",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "18.x"
+  },
   "dependencies": {
     "axios": "^1.4.0",
     "lucide-react": "^0.563.0",
