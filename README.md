@@ -1,4 +1,4 @@
-# 📝 Velora– Full-Stack E-Commerce Web App
+#DoneIt– Full-Stack Task Management System
 
 **DoneIt** is a **Full-Stack Task Management System** built using the MERN Stack. It helps users manage projects and tasks efficiently with secure authentication, authorization, and a clean dashboard UI.
 
@@ -6,7 +6,7 @@
 
 ## 🚀 Demo
 
-> 🌐 Live Demo: 👉 [View Velora](https://doneit-jttb7vfuu-kundans-projects-0fb18e7d.vercel.app/)
+> 🌐 Live Demo: 👉 [View DoneIt](https://doneit-jttb7vfuu-kundans-projects-0fb18e7d.vercel.app/)
 
 ---
 
