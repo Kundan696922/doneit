@@ -6,7 +6,7 @@
 
 ## 🚀 Demo
 
-> 🌐 Live Demo: 👉 [View DoneIt](https://doneit-jttb7vfuu-kundans-projects-0fb18e7d.vercel.app/)
+> 🌐 Live Demo: 👉 [View DoneIt](https://doneit-ecru.vercel.app/)
 
 ---
 
