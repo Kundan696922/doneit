@@ -1,4 +1,4 @@
-#DoneIt– Full-Stack Task Management System
+# DoneIt– Full-Stack Task Management System
 
 **DoneIt** is a **Full-Stack Task Management System** built using the MERN Stack. It helps users manage projects and tasks efficiently with secure authentication, authorization, and a clean dashboard UI.
 
